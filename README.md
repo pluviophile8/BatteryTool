@@ -1,8 +1,8 @@
 # BatteryTool
-[English](https://github.com/pluviophile8/BatteryTool/blob/master/README.md) [中文](https://github.com/pluviophile8/BatteryTool/blob/master/README_CN.md)
+[English](https://github.com/pluviophile8/BatteryTool/blob/master/README_EN.md)
 
-Display battery information (temperature, current, voltage, health status) in the notification bar by initiating a notification, for personal use. Update data every 3652 milliseconds.
+通过发起通知在通知栏中显示电池信息（温度、电流、电压、健康状态），供个人使用。每3652毫秒更新一次数据。
 
-I recommend everyone to copy the source code to generate an APK. In this way, you can decide the displayed text and update frequency by yourself !
+我推荐大家拷贝源代码去生成apk。这样你就能自己决定显示的文字、更新频率！
 
 <img src="https://github.com/pluviophile8/BatteryTool/blob/master/run_screenshot.jpg" width="50%" />
