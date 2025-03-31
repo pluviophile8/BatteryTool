@@ -4,4 +4,4 @@ Display battery information (temperature, current, voltage, health status) in th
 
 I recommend everyone to copy the source code to generate an APK. In this way, you can decide the displayed text and update frequency by yourself !
 
-![](https://github.com/pluviophile8/BatteryTool/blob/master/run_screenshot.jpg)
+<img src="https://github.com/pluviophile8/BatteryTool/blob/master/run_screenshot.jpg" width="50%" />
