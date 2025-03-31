@@ -1,5 +1,5 @@
 # BatteryTool
-[English](https://github.com/pluviophile8/BatteryTool/edit/master/README.md) [中文](https://github.com/pluviophile8/BatteryTool/edit/master/README——CN.md)
+[English](https://github.com/pluviophile8/BatteryTool/edit/master/README.md) [中文](https://github.com/pluviophile8/BatteryTool/edit/master/README_CN.md)
 
 Display battery information (temperature, current, voltage, health status) in the notification bar by initiating a notification, for personal use. Update data every 3652 milliseconds.
 
