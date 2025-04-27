@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
                 int currentNow = batteryManager.getIntProperty(BatteryManager.BATTERY_PROPERTY_CURRENT_NOW);
                 float current = -currentNow / 1000f;
 
-                String info = String.format("温度：%.1f ℃    电流：%.1f mA\n电压：%d mV  健康：%s", temperature, current, voltage, healthString);
+                String info = String.format("温度：%.1f ℃     电流：%.1f mA\n电压：%d mV  健康：%s", temperature, current, voltage, healthString);
                 updateNotification(info);
             }
         }
